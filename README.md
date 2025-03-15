@@ -1,29 +1,37 @@
-# 💻 Sahil Gawade  
+<!-- Banner Image (Upload a custom banner to your GitHub profile and use its link here) -->
+<p align="center">
+  <img src="https://github.com/Sahil-2005/Sahil-2005/blob/main/banner.png" alt="Sahil Gawade | Web Developer">
+</p>
 
-**🚀 Web Developer | MERN Stack Enthusiast | Passionate Problem Solver**  
+<h1 align="center">Hi there, I'm Sahil Gawade 👋</h1>
+<h3 align="center">🚀 Web Developer | MERN Stack Enthusiast | Passionate Problem Solver</h3>
 
-Welcome to my GitHub! I'm a **Web Developer** with expertise in **MERN Stack, PHP, and modern UI frameworks**. I love building **scalable, efficient, and user-friendly web applications** while continuously exploring new technologies.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahil-2005&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sahil-2005?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ---
 
-## 🌟 About Me  
+## 🛠️ About Me  
 
-- 🎓 **Computer Engineering Student** at Vidyalankar Institute of Technology  
+- 🎓 **Computer Engineering Student** at **Vidyalankar Institute of Technology**  
 - 💡 Passionate about **Full-Stack Web Development**  
-- 🏗️ Experienced in developing **dynamic and real-time applications**  
+- 🏗️ Experienced in building **scalable, dynamic, and real-time applications**  
 - 🔍 Always learning and exploring **cutting-edge technologies**  
+- 💬 Ask me about **React, Node.js, PHP, MongoDB, SQL**  
 
 ---
 
-## 🔨 Tech Stack  
+## 🚀 Tech Stack  
 
-### **💻 Programming & Markup Languages**  
+### **💻 Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)  
 
 ### **⚙️ Frameworks & Tools**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
@@ -48,44 +56,51 @@ Welcome to my GitHub! I'm a **Web Developer** with expertise in **MERN Stack, PH
 
 ---
 
-## 🔥 Projects  
+## 🔥 Featured Projects  
 
 ### 📺 **Digital Signage System**  
-**Tech Stack:** React.js, MongoDB Atlas, TensorFlow  
-- A smart system for businesses to remotely control **ads on multiple screens**  
-- **AI-powered audience tracking** using TensorFlow for **view count analysis**  
-- **Cost-efficient** JSON-based video management to minimize external storage expenses  
+🚀 **Tech Stack:** React.js, MongoDB Atlas, TensorFlow  
+✅ AI-powered **view count tracking** for advertisements  
+✅ Businesses can remotely **manage and control ads on multiple screens**  
+✅ Cost-efficient **JSON-based video storage**  
 
 ### 💬 **Real-Time Chat Application**  
-**Tech Stack:** MERN, Socket.io, TailwindCSS, DaisyUI  
-- **Instant messaging** with real-time updates using **Socket.io**  
-- **JWT authentication & authorization** for secure user access  
-- **Online status tracking** and global state management with Zustand  
+🚀 **Tech Stack:** MERN, Socket.io, TailwindCSS, DaisyUI  
+✅ **Instant messaging** with real-time updates  
+✅ **JWT authentication** for security  
+✅ **Online user status tracking**  
 
 ### 🏢 **Employee Management System (EMS)**  
-**Tech Stack:** MERN Stack, LocalStorage  
-- Fully functional **employee record management** system  
-- **Interactive UI** with React.js  
-- **LocalStorage-based data persistence**, making it lightweight and efficient  
+🚀 **Tech Stack:** MERN Stack, LocalStorage  
+✅ **Manage employee records** seamlessly  
+✅ **Interactive UI** with React.js  
+✅ **LocalStorage-based data persistence**  
 
 ### 🤖 **Gemini AI Clone**  
-**Tech Stack:** React.js, Gemini API  
-- A **clone of Gemini AI**, providing intelligent responses  
-- **Real-time AI-generated results** displayed in a clean and interactive UI  
-- Optimized API requests for **fast and efficient output**  
+🚀 **Tech Stack:** React.js, Gemini API  
+✅ AI-powered **real-time response generation**  
+✅ Optimized **API handling for fast performance**  
+✅ Intuitive and **user-friendly UI**  
 
 ### ✍️ **Blog Site**  
-**Tech Stack:** EJS, MongoDB Atlas  
-- **User authentication system** allowing users to **register and post blogs**  
-- **Server-side rendering with EJS** for dynamic content updates  
-- **MongoDB Atlas** integration for secure and scalable data storage  
+🚀 **Tech Stack:** EJS, MongoDB Atlas  
+✅ Users can **register and publish blogs**  
+✅ **Server-side rendering** for dynamic content updates  
+✅ **Secure authentication system**  
 
 ---
 
 ## 📈 GitHub Stats  
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil-2005&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-2005&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-2005&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-2005&theme=radical" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-2005&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 ---
 
@@ -96,4 +111,4 @@ Welcome to my GitHub! I'm a **Web Developer** with expertise in **MERN Stack, PH
 
 ---
 
-🚀 **Always eager to learn, collaborate, and build innovative web solutions!**  
+🔥 **Always eager to learn, collaborate, and build innovative web solutions!** 🚀  
