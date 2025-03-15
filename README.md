@@ -1,7 +1,4 @@
 <!-- Banner Image (Upload a custom banner to your GitHub profile and use its link here) -->
-<p align="center">
-  <img src="https://github.com/Sahil-2005/Sahil-2005/blob/main/banner.png" alt="Sahil Gawade | Web Developer">
-</p>
 
 <h1 align="center">Hi there, I'm Sahil Gawade 👋</h1>
 <h3 align="center">🚀 Web Developer | MERN Stack Enthusiast | Passionate Problem Solver</h3>
