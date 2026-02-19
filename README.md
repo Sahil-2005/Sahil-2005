@@ -4,10 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=706DFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+the+Future" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-706DFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-706DFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahil-gawade.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gawade-920a0a242/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil-2005)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sahilgawade4321/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gawadesahil.dev@gmail.com)
 
 </div>
 
@@ -24,7 +25,7 @@ const sahil = {
     },
     location: "Mumbai, India 🇮🇳",
     interests: ["Web Development", "AI/ML", "Blockchain", "System Design"],
-    currentFocus: "Building beautiful, performant web experiences",
+    currentFocus: "Building beautiful, performant web experiences with GSAP",
     lifePhilosophy: "Code with purpose, design with passion ✨"
 };
 ```
@@ -47,6 +48,7 @@ const sahil = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -73,6 +75,31 @@ const sahil = {
 ## 🌟 Featured Projects
 
 <table>
+<tr>
+<td width="50%">
+
+### 🎙️ [VoxAI - Intelligent Voice Agents](https://vox-ai-seven.vercel.app/)
+Premium AI-powered voice agent platform enabling businesses to deploy intelligent voice agents in minutes. Features seamless Twilio integration, real-time analytics, secure JWT auth, and a modern dark UI.
+
+**Tech:** `React 19` `Node.js` `MongoDB` `Twilio` `AI`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://vox-ai-seven.vercel.app/)
+[![GitHub](https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github)](https://github.com/Sahil-2005/VoxAI)
+
+</td>
+<td width="50%">
+
+### 🎵 [Melodix](https://melodix-ten.vercel.app/)
+Premium music player with stunning visuals, **glassmorphism design**, and offline support. Built with React & React Native for a seamless cross-platform experience.
+
+**Tech:** `React 19` `React Native` `Expo` `Tailwind CSS`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square)](https://melodix-ten.vercel.app/)
+[![GitHub](https://img.shields.io/badge/View-Code-blue?style=flat-square&logo=github)](https://github.com/Sahil-2005/Melodix)
+
+</td>
+</tr>
+
 <tr>
 <td width="50%">
 
@@ -216,10 +243,10 @@ const currentActivities = {
 
 I'm always excited to collaborate on innovative projects or discuss tech! Feel free to reach out:
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-706DFF?style=for-the-badge)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-706DFF?style=for-the-badge)](https://sahil-gawade.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/sahil-gawade-920a0a242/)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge)](https://twitter.com/sahil_gawade)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:gawadesahil.dev@gmail.com)
 
 ### 💭 *"Building the future, one commit at a time"*
 
